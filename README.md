@@ -2,6 +2,10 @@
 Rewrite的篝酱，我的Steam个人背景，PS + Live2D制作。
 
 ***
+## 效果预览
+[正的Steam](https://steamcommunity.com/id/zhengxiaoyao0716)
+
+***
 ## 版权申明：
 本作品为Rewrite同人，篝的原型与素材来自Rewrite游戏官方立绘，禁止一切商用！
 重绘、拆分以及Live2D模型的制作等皆为本人亲手制作，用于我的Steam主页背景。
